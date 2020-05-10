@@ -9,6 +9,7 @@
 - Done with Methodolgy of report (7/5/2020)
 - Done with the Discussion
 - Done with the Conclusion
+- Done with the assignment
 
 ## Next
 - Try to understand and do the assignment
