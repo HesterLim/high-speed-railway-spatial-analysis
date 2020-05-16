@@ -1,15 +1,3 @@
-# high-speed-railway-spatial-analysis
+# High Speed Railway Spatial Analysis
 
-## Progress
-- Done with following Workflow (25/4/2020)
-- Done with following tute week 5 GIS (30/4/2020)
-- Done with following tute week 6 GIS (30/4/2020)
-- Done with following tute week 7 GIS (4/5/2020)
-- Done with the Introduction of report (7/5/2020)
-- Done with Methodolgy of report (7/5/2020)
-- Done with the Discussion
-- Done with the Conclusion
-- Done with the assignment
-
-## Next
-- Try to understand and do the assignment
+This study aims to apply GIS to analyze four proposed railway alignments by the Victorian Rail Authority (VRA) for a new high-speed rail from Melbourne to Sydney. The VRA has proposed specific requirements for the chosen railway which will require an examination of total distance, slope, change in elevation, flood extents, and unsuitable terrain obstacles for each alignment. To ensure a well-informed decision, additional aspects relative to each alignment will be considered: parks and reserves, townships boundaries, existing railways, and public land management. Based on technical and economic viability, the alignments are ranked based on those analyses to help the VRA make their own decision.
